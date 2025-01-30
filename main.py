@@ -11,7 +11,7 @@ from Tabs import home, data, predict, visualise, about
 
 # Configure the app
 st.set_page_config(
-    page_title = 'Diabetes Prediction',
+    page_title = 'Diabetes Prediction System',
     page_icon = 'random',
     layout = 'wide',
     initial_sidebar_state = 'auto'
